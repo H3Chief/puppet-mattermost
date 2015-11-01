@@ -1,0 +1,14 @@
+{
+  "name": "h3chief-mattermost",
+  "version": "0.1.0",
+  "author": "h3chief",
+  "summary": "configure Ubuntu for mattermost dependencies",
+  "license": "MIT",
+  "source": "https://github.com/H3Chief/puppet-mattermost",
+  "project_page": "https://github.com/H3Chief/puppet-mattermost",
+  "issues_url": "https://github.com/H3Chief/puppet-mattermost/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
